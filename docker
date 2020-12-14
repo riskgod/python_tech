@@ -1,0 +1,2 @@
+CMD 在docker run 时运行。
+RUN 是在 docker build。
